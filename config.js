@@ -1,4 +1,4 @@
-const CONFIG = {
+const CONFIG =  {
     introTitle: 'Ngân iu!',
     introDesc: `Thương anh, em lâm bệnh nặng, điều đó hiện rõ lên trên khuôn mặt, 
 Là vì cảm xúc có chút xen lẫn, những lần nắm tóc và cấu da, 
