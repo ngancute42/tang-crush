@@ -1,8 +1,8 @@
 const CONFIG =  {
     introTitle: 'Ngân iu!',
     introDesc: `Thương anh, em lâm bệnh nặng, điều đó hiện rõ lên trên khuôn mặt, 
-Là vì cảm xúc có chút xen lẫn, những lần nắm tóc và cấu da, 
-Nhưng đây là yêu, hay là hận, hay là 1 điều gì xấu xa? `,
+    Là vì cảm xúc có chút xen lẫn, những lần nắm tóc và cấu da, 
+    Nhưng đây là yêu, hay là hận, hay là 1 điều gì xấu xa? `,
     btnIntro: 'thưng thưng',
     title: '我爱你 ',
     desc: '这么多，这么多 ',
